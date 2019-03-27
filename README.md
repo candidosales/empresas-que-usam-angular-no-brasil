@@ -1,6 +1,6 @@
 # Empresas que usam Angular
 
-> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/https://github.com/candidosales/empresas-que-usam-angular-no-brasil/blob/master/CONTRIBUTING.md)
+> OBS: Antes de realizar sua contribuição dê uma olhada nas [regras](https://github.com/candidosales/empresas-que-usam-angular-no-brasil/blob/master/CONTRIBUTING.md)
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
