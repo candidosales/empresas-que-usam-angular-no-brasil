@@ -11,7 +11,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Itaú](https://github.com/frontendbr/vagas/issues/1838) | São Paulo, SP |
 [Sysmap Solutions](http://sysmap.peoplenect.com/ats/external_applicant/?page=view_all_jobs) | São Paulo, SP |
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
-
+[Hariken](https://hariken.co/) | Curitiba, PR | Material Design
 
 ## Projetos que usam Angular no Brasil
 
