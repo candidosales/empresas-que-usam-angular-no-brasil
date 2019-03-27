@@ -3,7 +3,7 @@
 
 * Não colocar link afiliado
 * Manter em ordem alfabética
-* Colocar apenas tecnologias que estão dentro do ecossistema React
-* Não coloque "Angular" na coluna "Tecnologias Relacionadas"
+* Colocar apenas tecnologias que estão dentro do ecossistema Angular
+* Não coloque "React" na coluna "Tecnologias Relacionadas"
 * Coloque uma cidade por linha, exemplo: 'Rio de Janeiro, RJ<br/>São Paulo, SP'
 * Coloque apenas cidades brasileiras
