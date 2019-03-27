@@ -7,3 +7,8 @@ Nome | Cidade | Tecnologias Relacionadas
 [GR1D](https://gr1d.gupy.io/jobs/20879) | São Paulo, SP | Typescript 
 [Itaú](https://github.com/frontendbr/vagas/issues/1838) | São Paulo, SP | Typescript 
 
+
+## Referência
+
+https://github.com/react-brasil/empresas-que-usam-react-no-brasil
+
