@@ -14,6 +14,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Sysmap Solutions](http://sysmap.peoplenect.com/ats/external_applicant/?page=view_all_jobs) | São Paulo, SP |
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
 [Hariken](https://hariken.co/) | Curitiba, PR | Material Design
+[VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest
 
 ## Projetos que usam Angular no Brasil
 
