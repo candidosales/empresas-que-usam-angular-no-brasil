@@ -5,6 +5,7 @@
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Bemind](https://sites.google.com/bemind.com.br/vagas/p%C3%A1gina-inicial/desenvolvedor-web-s%C3%AAnior?authuser=0) | Recife, PE |
+[BrasilPrev](https://www1.brasilprev.com.br/) | São Paulo, SP | Material Design
 [CustomerX](https://customerx.cx) | Toledo, PR | RxJS
 [DB1](https://vagasdb1.recruiterbox.com/jobs/fk0j2cl/?utm_source=Social&utm_medium=linkedin) | Maringá, PR |
 [DogHero](https://www.doghero.com.br) | São Paulo, SP |
@@ -16,6 +17,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
 [Hariken](https://hariken.co/) | Curitiba, PR | Material Design
 [VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest
+[XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Material Design
 
 ## Projetos que usam Angular no Brasil
 
