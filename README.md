@@ -6,6 +6,7 @@ Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
 [Bemind](https://sites.google.com/bemind.com.br/vagas/p%C3%A1gina-inicial/desenvolvedor-web-s%C3%AAnior?authuser=0) | Recife, PE |
 [BrasilPrev](https://www1.brasilprev.com.br/) | São Paulo, SP | Material Design
+[Capyba](https://www.capyba.com/) | Recife, PE | RxJS, Material Design, Metronik
 [CustomerX](https://customerx.cx) | Toledo, PR | RxJS
 [DB1](https://vagasdb1.recruiterbox.com/jobs/fk0j2cl/?utm_source=Social&utm_medium=linkedin) | Maringá, PR |
 [DogHero](https://www.doghero.com.br) | São Paulo, SP |
