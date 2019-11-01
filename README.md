@@ -8,6 +8,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [BrasilPrev](https://www1.brasilprev.com.br/) | São Paulo, SP | Material Design
 [Bravi](https://bravi.com.br) | Florianópolis, SC |
 [Caffeex](https://www.caffeex.com/) | São Paulo, SP |
+[Capyba](https://www.capyba.com/) | Recife, PE | RxJS, Material Design, Metronik
 [CustomerX](https://customerx.cx) | Toledo, PR | RxJS
 [DB1](https://vagasdb1.recruiterbox.com/jobs/fk0j2cl/?utm_source=Social&utm_medium=linkedin) | Maringá, PR |
 [DogHero](https://www.doghero.com.br) | São Paulo, SP |
