@@ -20,7 +20,8 @@ Nome | Cidade | Tecnologias Relacionadas
 [Mandala](https://www.mandalaclothing.com.br/) | São Paulo, SP | 
 [Sysmap Solutions](http://sysmap.peoplenect.com/ats/external_applicant/?page=view_all_jobs) | São Paulo, SP |
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
-[VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest
+[VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest |
+[Vöiston](http://voiston.com/) | São Paulo, SP | Material Design, NgRx |
 [XP Investimentos](https://www.xpi.com.br/) | São Paulo, SP | Material Design
 
 ## Projetos que usam Angular no Brasil
