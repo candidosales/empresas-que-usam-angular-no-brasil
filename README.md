@@ -18,6 +18,7 @@ Nome | Cidade | Tecnologias Relacionadas
 [Itaú](https://github.com/frontendbr/vagas/issues/1838) | São Paulo, SP |
 [Inventione](http://inventione.com.br/vagas) | Aracaju, SE | Material Design
 [Mandala](https://www.mandalaclothing.com.br/) | São Paulo, SP | 
+[Simples Dental](https://www.simplesdental.com/) | Criciúma, SC | Material Design, NgRx
 [Sysmap Solutions](http://sysmap.peoplenect.com/ats/external_applicant/?page=view_all_jobs) | São Paulo, SP |
 [TurboMKT](https://www.turbomkt.com.br/carreiras/) | São Bernardo do Campo, SP |
 [VIXTEAM](http://vixteam.com.br/) | Vitória, ES | Material Design, RxJS, Jest |
