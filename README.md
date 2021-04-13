@@ -4,6 +4,7 @@
 
 Nome | Cidade | Tecnologias Relacionadas
 :------------: | ------------------------ | ------------
+[Basis Tecnologia da Informação](https://www.basis.com.br/) | Brasília, DF | PrimeNg
 [Bemind](https://sites.google.com/bemind.com.br/vagas/p%C3%A1gina-inicial/desenvolvedor-web-s%C3%AAnior?authuser=0) | Recife, PE |
 [BrasilPrev](https://www1.brasilprev.com.br/) | São Paulo, SP | Material Design
 [Bravi](https://bravi.com.br) | Florianópolis, SC |
