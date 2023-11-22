@@ -30,6 +30,7 @@
 |                                          [VIXTEAM](http://vixteam.com.br/)                                          | Vitória, ES               | Material Design, RxJS, Jest     |
 |                                           [Vöiston](http://voiston.com/)                                            | São Paulo, SP             | Material Design, NgRx           |
 |                                     [XP Investimentos](https://www.xpi.com.br/)                                     | São Paulo, SP             | Material Design                 |
+|                                     [ZUP IT Innovation](https://www.zup.com.br/)                                    | Uberlândia, MG            |                                 |
 
 ## Projetos que usam Angular no Brasil
 
